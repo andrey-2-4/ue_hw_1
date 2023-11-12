@@ -42,4 +42,6 @@ https://www.youtube.com/watch?v=hdAO6098Jy0
 #### дополнительно
 Стеклянная комната в конце символизирует окончание игры
 
+.gitignore и .gitattributes взял из гита, что Вы предоставили (https://github.com/MOZGIII/ue5-gitignore)
+
 Ожидаемая оценка 6 :D
